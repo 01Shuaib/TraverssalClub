@@ -1,4 +1,4 @@
 # TraverssalClub
 first repo
 <br>
-author shuaib
+author shuaib (Geu dun)
